@@ -50,6 +50,6 @@ bash darkboss1-VulScanner.sh
 
 This tool is only for Ethical Hacking & Security Testing. Do not use it on unauthorized websites. The developer is not responsible for any misuse.
 
-📢 Connect with BlackBD
+📢 Connect with https://github.com/darkboss1/
 
 📺 Website: serialkey.top 📘 Facebook: cybercrackerbd
