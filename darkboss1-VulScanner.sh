@@ -1,17 +1,5 @@
 #!/bin/bash
 # Banner
-def show_banner():
-    print("""
-
-💋🍭  Ⓓ𝔞𝐑Ⓚ𝓑σ𝔰Ｓ❶  🐠😡
-
-     🐍 Developed by darkboss1
-""")
-
-show_banner()
-
-
-# Banner
 echo -e "\e[1;32mWelcome to darkboss1 Web Exploit Toolkit\e[0m"
 echo -e "\e[1;34mFor Ethical Web Security Testing Only\e[0m"
 echo -e "\e[1;36mChoose an option:\e[0m"
