@@ -16,14 +16,14 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install git python3 python3-pip sqlmap xsser subfinder dirb -y
 
 # Clone the repository
-git clone https://github.com/darkboss1/darkboss1-VulScanner.git
-cd darkboss1-VulScanner
+# git clone https://github.com/darkboss1/darkboss1-VulScanner.git
+# cd darkboss1-VulScanner
 
 # Give execute permission
-chmod +x darkboss1-VulScanner.sh
+# chmod +x darkboss1-VulScanner.sh
 
 # Run the tool
-bash darkboss1-VulScanner.sh
+# bash darkboss1-VulScanner.sh
 
 📌 Requirements
 
