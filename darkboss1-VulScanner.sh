@@ -1,4 +1,21 @@
 #!/bin/bash
+
+# Display ASCII art
+print_color "
+██████╗  █████╗ ██████╗ ██╗  ██╗██████╗  ██████╗ ███████╗███████╗ ██╗
+██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝██╔══██╗██╔═══██╗██╔════╝██╔════╝███║
+██║  ██║███████║██████╔╝█████╔╝ ██████╔╝██║   ██║███████╗███████╗╚██║
+██║  ██║██╔══██║██╔══██╗██╔═██╗ ██╔══██╗██║   ██║╚════██║╚════██║ ██║
+██████╔╝██║  ██║██║  ██║██║  ██╗██████╔╝╚██████╔╝███████║███████║ ██║
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚══════╝╚══════╝ ╚═╝                                                                    
+" "OKGREEN"
+
+# Display setup information
+print_color "Welcome to darkboss1-VulScanner setup! Following packages will be installed:\n" "WARNING"
+echo "- npm"
+echo "- php"
+echo -e "- localtunnel\n"
+
 # Banner
 echo -e "\e[1;32mWelcome to darkboss1 Web Exploit Toolkit\e[0m"
 echo -e "\e[1;34mFor Ethical Web Security Testing Only\e[0m"
