@@ -1,13 +1,11 @@
 # darkboss1-VulScanner
-darkboss1-VulScanner
-
 darkboss1-VulScanner is a web security tool designed for ethical hackers and bug bounty hunters. It provides functionalities like SQL injection scanning, XSS vulnerability detection, subdomain enumeration, and directory brute-forcing, enabling users to identify and report security vulnerabilities in web applications effectively.
 
 This tool is specifically tailored for ethical hacking and penetration testing, allowing users to assess the security posture of web applications. By utilizing darkboss1-VulScanner, security professionals can systematically test for common vulnerabilities, ensuring that applications are robust against potential attacks.
 
 📌 Features
 
-✅ SQL Injection Scanner (sqlmap) ✅ XSS Vulnerability Scanner (xsser) ✅ Subdomain Enumeration (subfinder) ✅ Directory Brute-force (dirb) ✅ Fully Terminal-Based Interface ✅ Kali Linux & Termux Compatible
+✅ SQL Injection Scanner (sqlmap) ✅ XSS Vulnerability Scanner (xsser) ✅ Etc
 
 ⚡ Installation
 
