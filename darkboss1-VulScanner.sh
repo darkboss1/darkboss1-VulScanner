@@ -1,12 +1,4 @@
 #!/bin/bash
-# Banner
-def show_banner():
-    print("="*50)
-    print(" 🔥 Welcome to darkboss1 VulScanner 🔥 ")
-    print(" 💻 Developed by darkboss1")
-    print("="*50)
-
-show_banner()
 
 # Banner
 echo -e "\e[1;32mWelcome to darkboss1 Web Exploit Toolkit\e[0m"
@@ -17,6 +9,11 @@ echo "2) XSS Vulnerability Scanner"
 echo "3) Subdomain Enumeration"
 echo "4) Directory Brute-force"
 echo "5) Exit"
+
+==================================================
+ 🔥 Welcome to darkboss1 VulScanner 🔥 
+ 💻 Developed by darkboss1
+==================================================
 
 # User Input
 read -p "Enter your choice: " choice
