@@ -4,7 +4,7 @@ echo -e "\e[1;32mWelcome to darkboss1 Web Exploit Toolkit\e[0m"
 echo -e "\e[1;34mFor Ethical Web Security Testing Only\e[0m"
 echo -e "\e[1;36mChoose an option:\e[0m"
 echo "1) SQL Injection Scanner"
-echo "2) Subdomain Enumeration"
+echo "2) Subdomain Finder"
 echo "3) Directory Brute-force"
 echo "4) Exit"
 
