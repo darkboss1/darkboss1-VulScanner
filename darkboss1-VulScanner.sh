@@ -10,11 +10,6 @@ echo "3) Subdomain Enumeration"
 echo "4) Directory Brute-force"
 echo "5) Exit"
 
-==================================================
- 🔥 Welcome to darkboss1 VulScanner 🔥 
- 💻 Developed by darkboss1
-==================================================
-
 # User Input
 read -p "Enter your choice: " choice
 
