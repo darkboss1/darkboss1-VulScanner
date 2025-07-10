@@ -1,5 +1,15 @@
 #!/bin/bash
 
+import pyfiglet
+
+def show_banner():
+    ascii_banner = pyfiglet.figlet_format("darkboss1")
+    print(ascii_banner)
+    print("💻 Developed by darkboss1")
+
+show_banner()
+
+
 # Banner
 echo -e "\e[1;32mWelcome to darkboss1 Web Exploit Toolkit\e[0m"
 echo -e "\e[1;34mFor Ethical Web Security Testing Only\e[0m"
