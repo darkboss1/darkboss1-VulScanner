@@ -1,24 +1,12 @@
 #!/bin/bash
-
-import pyfiglet
-
-def show_banner():
-    ascii_banner = pyfiglet.figlet_format("darkboss1")
-    print(ascii_banner)
-    print("💻 Developed by darkboss1")
-
-show_banner()
-
-
 # Banner
 echo -e "\e[1;32mWelcome to darkboss1 Web Exploit Toolkit\e[0m"
 echo -e "\e[1;34mFor Ethical Web Security Testing Only\e[0m"
 echo -e "\e[1;36mChoose an option:\e[0m"
 echo "1) SQL Injection Scanner"
-echo "2) XSS Vulnerability Scanner"
-echo "3) Subdomain Enumeration"
-echo "4) Directory Brute-force"
-echo "5) Exit"
+echo "2) Subdomain Enumeration"
+echo "3) Directory Brute-force"
+echo "4) Exit"
 
 # User Input
 read -p "Enter your choice: " choice
