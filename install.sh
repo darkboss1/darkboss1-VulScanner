@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Installing dependencies for BlackBD-VulnScanner..."
+echo "Installing dependencies for darkboss1-VulScanner..."
 
 # Update package lists
 sudo apt update
